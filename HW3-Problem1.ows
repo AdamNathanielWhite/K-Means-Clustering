@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<scheme description="" title="HW3" version="2.0">
+	<nodes>
+		<node id="0" name="File" position="(109.0, 155.0)" project_name="Orange" qualified_name="Orange.OrangeWidgets.Data.OWFile.OWFile" title="File" version="" />
+	</nodes>
+	<links />
+	<annotations />
+	<thumbnail />
+	<node_properties>
+		<properties format="pickle" node_id="0">(dp1
+S'savedWidgetGeometry'
+p2
+S'\x01\xd9\xd0\xcb\x00\x01\x00\x00\x00\x00\x01\xba\x00\x00\x00\xec\x00\x00\x03E\x00\x00\x02\xd4\x00\x00\x01\xc2\x00\x00\x01\x0b\x00\x00\x03=\x00\x00\x02\xcc\x00\x00\x00\x00\x00\x00'
+p3
+sS'widgetShown'
+p4
+I0
+sS'showAdvanced'
+p5
+I01
+sS'createNewOn'
+p6
+I1
+sS'__settingsDataVersion'
+p7
+NsS'localContextsVersion'
+p8
+(I100
+I0
+tp9
+sS'localContexts'
+p10
+(lp11
+(iOWContexts
+Context
+p12
+(dp13
+S'symbolDK'
+p14
+S'~'
+sS'symbolDC'
+p15
+S'?'
+sS'time'
+p16
+F1415136700.9400001
+sS'filename'
+p17
+VC:/CS/Data Mining/HW3/1code-git/K-Means-Clustering/points.txt
+p18
+sba(iOWContexts
+Context
+p19
+(dp20
+g15
+S'?'
+sg14
+S'~'
+sg17
+VC:/Users/Adam/Documents/SCHOOL/Data Mining/HW1/seeds_dataset2.txt
+p21
+sg16
+F1415136686.0899999
+sba(iOWContexts
+Context
+p22
+(dp23
+g14
+S'~'
+sg15
+S'?'
+sg16
+F1412020847.513
+sg17
+g21
+sba(iOWContexts
+Context
+p24
+(dp25
+g15
+S'?'
+sg14
+S'~'
+sg17
+VC:/Users/Adam/Documents/SCHOOL/Data Mining/HW1/seeds_dataset2.txt
+p26
+sg16
+F1412020709.444
+sba(iOWContexts
+Context
+p27
+(dp28
+g14
+S'~'
+sg15
+S'?'
+sg16
+F1412020175.3559999
+sg17
+VC:/Users/Adam/Documents/SCHOOL/Data Mining/HW1/seeds_dataset2.txt
+p29
+sba(iOWContexts
+Context
+p30
+(dp31
+g15
+S'?'
+sg14
+S'~'
+sg17
+g21
+sg16
+F1412020175.3559999
+sba(iOWContexts
+Context
+p32
+(dp33
+g14
+S'~'
+sg15
+S'?'
+sg16
+F1412020157.348
+sg17
+VC:/Python27/Lib/site-packages/Orange/datasets/zoo.tab
+p34
+sba(iOWContexts
+Context
+p35
+(dp36
+g15
+S'?'
+sg14
+S'~'
+sg17
+VC:/Python27/Lib/site-packages/Orange/datasets/zoo.tab
+p37
+sg16
+F1412020157.348
+sbasS'recentFiles'
+p38
+(lp39
+g18
+ag21
+ag37
+as.</properties>
+	</node_properties>
+</scheme>
